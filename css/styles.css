@@ -1,0 +1,41 @@
+body {
+	font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
+	padding: .25em 1em;
+}
+
+h1 {
+	font-size: 2em; /*32px*/
+	margin: 0 0 .5em; /*16px */
+}
+
+h2 {
+	margin:0 0 1em;
+}
+
+p {
+	margin: 0 0 1em;
+}
+
+
+span.powered-by {
+	font-size: .5em;
+	font-weight: normal;
+}
+
+#login {
+}
+
+form input {
+	margin: .5em 0 1em;
+	width:100%;
+}
+
+.ui-menu .ui-menu-item a span.brewery {
+	font-size: .8em;
+	color: #666;
+	}
+
+input {
+	width:100%;
+	font-size: 1em;
+}
